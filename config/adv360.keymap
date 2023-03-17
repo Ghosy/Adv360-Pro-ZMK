@@ -69,11 +69,11 @@
 
         layer_Mirror {
             bindings = <
-    &trans  &kp NUMBER_0  &kp NUMBER_9  &kp NUMBER_8  &kp NUMBER_7  &kp NUMBER_6            &trans                                                  &trans  &kp NUMBER_5  &kp NUMBER_4  &kp NUMBER_3  &kp NUMBER_2   &kp NUMBER_1  &trans
- &kp SLASH         &kp L         &kp R         &kp C         &kp G         &kp F            &trans                                                  &trans         &kp Y         &kp P    &kp PERIOD     &kp COMMA       &kp APOS  &trans
- &kp MINUS         &kp S         &kp N         &kp T         &kp H         &kp D            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans         &kp I         &kp U         &kp E         &kp O          &kp A  &trans
- &kp ENTER         &kp Z         &kp V         &kp W         &kp M         &kp B            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans         &kp X         &kp K         &kp K         &kp J  &kp SEMICOLON  &trans
-    &trans        &trans        &trans        &trans        &trans                          &trans  &trans  &trans                  &trans  &trans  &trans                      &trans        &trans        &trans         &trans  &trans
+    &trans  &kp NUMBER_0  &kp NUMBER_9  &kp NUMBER_8  &kp NUMBER_7  &kp NUMBER_6            &trans                                                  &trans  &kp NUMBER_5  &kp NUMBER_4  &kp NUMBER_3  &kp NUMBER_2   &kp NUMBER_1   &trans
+ &kp SLASH         &kp L         &kp R         &kp C         &kp G         &kp F            &trans                                                  &trans         &kp Y         &kp P    &kp PERIOD     &kp COMMA       &kp APOS  &kp TAB
+ &kp MINUS         &kp S         &kp N         &kp T         &kp H         &kp D            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans         &kp I         &kp U         &kp E         &kp O          &kp A  &kp ESC
+ &kp ENTER         &kp Z         &kp V         &kp W         &kp M         &kp B            &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans         &kp X         &kp K         &kp K         &kp J  &kp SEMICOLON   &trans
+    &trans        &trans        &trans        &trans        &trans                          &trans  &trans  &trans                  &trans  &trans  &trans                      &trans        &trans        &trans         &trans   &trans
             >;
         };
 
